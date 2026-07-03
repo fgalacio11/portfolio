@@ -18298,8 +18298,8 @@ const rx = () => {
         })]
     })
 }
-  , sx = "/assets/onesports.png"
-  , cx = "/assets/onecms.png"
+  , sx = "./assets/onesports.png"
+  , cx = "./assets/onecms.png"
   , fx = {
     projects: [{
         id: 1,
